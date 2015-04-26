@@ -1,4 +1,4 @@
-## Gettingcleaning data
+## Getting cleaning data: Course Project
 Using this data set from:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
