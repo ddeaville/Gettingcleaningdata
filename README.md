@@ -12,4 +12,5 @@ The run_analysis.R script:
 
 4)Labels the data set with descriptive variable names. 
 
-Creates a text file of tidy data with the average of each variable for each activity and each subject.
+Creates a text file of tidy data with the average of each variable for each activity and each subject (tidy_data.txt)
+
