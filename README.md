@@ -2,7 +2,7 @@
 Using this data set from:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-The run_analysis.R 
+The run_analysis.R script:
 
 1)Merges the training and the test sets to create one data set.
 
