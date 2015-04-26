@@ -10,6 +10,6 @@ The run_analysis.R script:
 
 3)Uses descriptive activity names to name the activities in the data set
 
-4)labels the data set with descriptive variable names. 
+4)Labels the data set with descriptive variable names. 
 
 Creates a text file of tidy data with the average of each variable for each activity and each subject.
